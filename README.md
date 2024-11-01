@@ -19,7 +19,7 @@ A simple and efficient budget-tracking app built with React to help users manage
 - **Responsive Design**: The app is fully responsive and adapts to various device screens.
 
 ## Demo
-You can see a live demo of the Budget Tracker [here](https://lucky-ikefe.github.io/Budget-Tracking-App)
+You can see a live demo of the Budget Tracker [here](https://lucky-ikefe.github.io/budget-tracker)
 
 ## Technologies Used
 - **Frontend**: React, React Hooks, Context API
@@ -36,7 +36,7 @@ You can see a live demo of the Budget Tracker [here](https://lucky-ikefe.github.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lucky-ikefe/Budget-Tracking-App.git
+   git clone https://github.com/lucky-ikefe/budget-tracker.git
 
    cd budget-tracking-app
    ```
